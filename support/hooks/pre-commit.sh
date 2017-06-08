@@ -1,3 +1,2 @@
 #!/bin/sh
-pwd
-echo 'HELLO!'
+node_modules/.bin/eslint src/js
